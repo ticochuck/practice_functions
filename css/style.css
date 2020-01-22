@@ -1,4 +1,4 @@
-
+/* 
 body {
     margin: 5px;
     background-color: lightgray;
@@ -10,7 +10,7 @@ h1 {
   font-weight: bold;
   color:rgb(35, 18, 194);
   border-width: 1px;
-  /* border-style: solid; */
+  border-style: solid; 
   padding: 0.2cm;
   margin-left: 550px;
   margin-right: 550px;
@@ -28,4 +28,4 @@ p{
 p span {
     color:red;
     font-weight: bolder;
-}
+} */
